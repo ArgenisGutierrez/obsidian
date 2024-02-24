@@ -12,7 +12,6 @@
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
   "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://images7.alphacoders.com/755/755186.jpg\")",
   "blue-topaz-theme@@blur-depth": 0,
-  "blue-topaz-theme@@brightness-4-bg": 0.5,
   "blue-topaz-theme@@bt-background-split-container@@light": "#227BA600",
   "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-default",
   "blue-topaz-theme@@background-image-settings-command-palette-same-as-workplace": false,
@@ -50,5 +49,6 @@
   "blue-topaz-theme@@tag-style-option": "rainbow-tag-no-filter",
   "blue-topaz-theme@@head-tag-style": true,
   "blue-topaz-theme@@tag-click": false,
-  "blue-topaz-theme@@setting-etc-pane-style": "setting-default-frosted-glass"
+  "blue-topaz-theme@@setting-etc-pane-style": "setting-default-frosted-glass",
+  "blue-topaz-theme@@brightness-4-bg": 0.3
 }

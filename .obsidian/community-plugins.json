@@ -3,6 +3,7 @@
   "obsidian-style-settings",
   "obsidian-kanban",
   "obsidian-checklist-plugin",
-  "obsidian-git",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "dataview",
+  "obsidian-book-search-plugin"
 ]

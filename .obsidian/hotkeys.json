@@ -1,0 +1,11 @@
+{
+  "obsidian-book-search-plugin:open-book-search-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}
