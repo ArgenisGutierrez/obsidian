@@ -14,6 +14,8 @@ link: https://books.google.com/books/about/Linux_Bible.html?hl=&id=JT2oufFK4tkC
 previewLink: http://books.google.com.mx/books?id=JT2oufFK4tkC&printsec=frontcover&dq=linux+bible&hl=&as_pt=BOOKS&cd=2&source=gbs_api
 isbn13: 9781118218549
 isbn10: 111821854X
+tags:
+  - Books
+  - Linux
 ---
-![[linux-bible-by-christopher-negus.pdf]]
-[[Mis Libros]]
+[[linux-bible-by-christopher-negus.pdf]]([[Mis Libros]])

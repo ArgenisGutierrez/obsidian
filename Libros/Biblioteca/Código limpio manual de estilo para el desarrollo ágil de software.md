@@ -14,5 +14,8 @@ link: https://books.google.com/books/about/C%C3%B3digo_limpio_manual_de_estilo_p
 previewLink: http://books.google.com.mx/books?id=SN9xLwEACAAJ&dq=code+clean&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn10: 8441532109
 isbn13: 9788441532106
+tags:
+  - Books
+  - Programing
 ---
-![[Codigo limpio - Robert Cecil Martin.pdf]]([[Mis Libros]])
+[[Codigo limpio - Robert Cecil Martin.pdf]]([[Mis Libros]])

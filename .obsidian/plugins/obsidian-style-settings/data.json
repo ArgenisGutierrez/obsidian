@@ -50,5 +50,9 @@
   "blue-topaz-theme@@head-tag-style": true,
   "blue-topaz-theme@@tag-click": false,
   "blue-topaz-theme@@setting-etc-pane-style": "setting-default-frosted-glass",
-  "blue-topaz-theme@@brightness-4-bg": 0.3
+  "blue-topaz-theme@@brightness-4-bg": 0.3,
+  "blue-topaz-theme@@full-width-dvtable": false,
+  "blue-topaz-theme@@dvtable-style-options": "no-wrapped-dvtable",
+  "blue-topaz-theme@@auto-serial-number-dvtable": false,
+  "blue-topaz-theme@@folder-dataview-list-style": "dataview-list-style-pacman"
 }

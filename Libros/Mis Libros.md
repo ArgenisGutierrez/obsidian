@@ -4,7 +4,7 @@ tags:
 ---
 
 ```dataview
-table  
+table
 ("![coverUrl|120]("+ coverUrl +")") AS Cover,
 title AS Titulo,
 author AS Autor,

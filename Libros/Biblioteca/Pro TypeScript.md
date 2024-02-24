@@ -14,6 +14,9 @@ link: https://books.google.com/books/about/Pro_TypeScript.html?hl=&id=ZEtADwAAQB
 previewLink: http://books.google.com.mx/books?id=ZEtADwAAQBAJ&printsec=frontcover&dq=steve+fenton&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn13: 9781484232491
 isbn10: 1484232496
+tags:
+  - Books
+  - Programing
+  - Lenguage
 ---
-![[Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf]]
-[[Mis Libros]]
+[[Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf]]([[Mis Libros]])
