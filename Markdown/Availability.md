@@ -1,0 +1,2 @@
+La sintaxis extendida no siempre esta disponible en todas las aplicaciones de markdown por lo tanto necesitas revisar si es soportado.
+Por suerte obsidian lo soporta junto con otras cosas extras como [[Callouts Markdown]] por ejemplo.

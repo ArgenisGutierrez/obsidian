@@ -4,14 +4,12 @@ kanban-plugin: basic
 
 ---
 
-## Temas
+## Mis Notas
 
 - [ ] [[Mis Libros]]
 - [ ] [[Markdown]]
-
-
-## Lenguajes
-
+- [ ] [[Javascript]]
+- [ ] [[Typescript]]
 
 
 

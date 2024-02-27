@@ -6,5 +6,8 @@
   "obsidian-relative-line-numbers",
   "dataview",
   "obsidian-book-search-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "buttons",
+  "obsidian-statusbar-pomo",
+  "obsidian-mind-map"
 ]
