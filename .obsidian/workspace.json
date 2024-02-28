@@ -11,12 +11,8 @@
             "id": "66eefb25ad740c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Javascript.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Javascript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,42 +161,42 @@
   },
   "active": "66eefb25ad740c9e",
   "lastOpenFiles": [
-    "Javascript/Temario/Introduction to Javascript.md",
     "Javascript/Javascript.md",
+    "Javascript/Temario/All about variables.md",
+    "Javascript/Data Types.md",
+    "Javascript/Bigint.md",
+    "Javascript/Undefined.md",
+    "Javascript/Number.md",
+    "Javascript/Sting.md",
+    "Javascript/Typeof Operator.md",
+    "Javascript/Temario/Variable Scoopes.md",
+    "Javascript/Temario/Block.md",
+    "Javascript/Temario/Function.md",
+    "Javascript/Temario/Global.md",
+    "Javascript/Temario/Variable naming rules.md",
+    "Javascript/Temario/Hoisting.md",
+    "Javascript/Temario/Variable Declarations.md",
+    "Javascript/Temario/Const.md",
+    "Javascript/Temario/Let.md",
+    "Javascript/Temario/Var.md",
+    "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
+    "Libros/Biblioteca/Eloquent JavaScript 3rd Edition.md",
+    "Libros/Mis Libros.md",
+    "Javascript/Temario/Introduction to Javascript.md",
     "Javascript/Temario/How to run.md",
     "Javascript/Temario/Versions.md",
     "Javascript/Temario/History.md",
     "Javascript/Temario/What is Javascript.md",
-    "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
-    "Libros/Biblioteca/Eloquent JavaScript 3rd Edition.md",
-    "Libros/Mis Libros.md",
     "Javascript/Temario/[[Introduction.md",
-    "Javascript/Temario/Introduction.md",
     "Javascript/Temario",
-    "Dashboard.md",
-    "Typescript/Typescript.md",
     "Javascript/Attachments/Pasted image 20240226221347.png",
     "Javascript/Attachments",
     "Javascript/Mapa.canvas",
-    "Javascript/Introduction.md",
-    "Javascript/Introduction to Javascript.md",
-    "Javascript/How to run.md",
-    "Javascript/Versions.md",
-    "Javascript/History.md",
-    "Javascript/Untitled.md",
     "Javascript/Attachments/Pasted image 20240226210450.png",
     "Javascript",
     "Libros/Biblioteca/Attachments/Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf",
-    "Typescript/ProTypescript/Untitled.md",
-    "Typescript/Untitled.md",
     "Typescript/ProTypescript",
-    "Libros/Biblioteca/Pro TypeScript.md",
     "Typescript",
-    "Markdown/Markdown.md",
-    "Markdown/Headings.md",
-    "Markdown/Automatic URL Linking.md",
-    "Markdown/Task Lists.md",
-    "Markdown/Emphasis.md",
     "Libros/Biblioteca/Attachments/markdown guide.pdf",
     "Libros/Biblioteca/Attachments/Codigo limpio - Robert Cecil Martin.pdf",
     "Excalidraw/Attachments/Pasted Image 20240224132609_920.png",
