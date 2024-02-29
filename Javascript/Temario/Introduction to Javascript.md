@@ -6,4 +6,4 @@
 >- [[Versions]]
 >- [[How to run]]
 
-[Regresar](Javascript)
+[Regresar](Javascript.md)

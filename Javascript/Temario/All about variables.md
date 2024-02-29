@@ -11,4 +11,4 @@ Las variables son contenedores de datos temporales, es decir que no se almacenan
 >- [[Variable naming rules]]
 >- [[Variable Scoopes]]
 
-[Regresar](Javascript)
+[Regresar](Javascript.md)

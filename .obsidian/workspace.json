@@ -11,8 +11,12 @@
             "id": "66eefb25ad740c9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Temario/Object.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dc5f56dab46376e1",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Temario/Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Temario/Object.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Temario/Object.md"
+              }
             }
           },
           {
@@ -161,14 +168,21 @@
   },
   "active": "66eefb25ad740c9e",
   "lastOpenFiles": [
+    "Javascript/Temario/Data Types.md",
+    "Javascript/Temario/Object.md",
+    "Javascript/Temario/Primitive Types.md",
+    "Javascript/Temario/Boolean.md",
+    "Javascript/Temario/Symbol.md",
+    "Javascript/Temario/Null.md",
     "Javascript/Javascript.md",
+    "Libros/Biblioteca/Attachments/mastering-vim-quickly-from-wtf-to-omg-in-no-time.pdf",
+    "Libros/Biblioteca/Mastering VIM Quickly From Wtf to Omg in No Time.md",
+    "Javascript/Temario/Undefined.md",
     "Javascript/Temario/All about variables.md",
-    "Javascript/Data Types.md",
-    "Javascript/Bigint.md",
-    "Javascript/Undefined.md",
-    "Javascript/Number.md",
-    "Javascript/Sting.md",
-    "Javascript/Typeof Operator.md",
+    "Javascript/Temario/Bigint.md",
+    "Javascript/Temario/Number.md",
+    "Javascript/Temario/Sting.md",
+    "Javascript/Temario/Typeof Operator.md",
     "Javascript/Temario/Variable Scoopes.md",
     "Javascript/Temario/Block.md",
     "Javascript/Temario/Function.md",
@@ -182,12 +196,6 @@
     "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
     "Libros/Biblioteca/Eloquent JavaScript 3rd Edition.md",
     "Libros/Mis Libros.md",
-    "Javascript/Temario/Introduction to Javascript.md",
-    "Javascript/Temario/How to run.md",
-    "Javascript/Temario/Versions.md",
-    "Javascript/Temario/History.md",
-    "Javascript/Temario/What is Javascript.md",
-    "Javascript/Temario/[[Introduction.md",
     "Javascript/Temario",
     "Javascript/Attachments/Pasted image 20240226221347.png",
     "Javascript/Attachments",
@@ -200,7 +208,6 @@
     "Libros/Biblioteca/Attachments/markdown guide.pdf",
     "Libros/Biblioteca/Attachments/Codigo limpio - Robert Cecil Martin.pdf",
     "Excalidraw/Attachments/Pasted Image 20240224132609_920.png",
-    "Excalidraw/Attachments",
     "imagenes/1341774.png",
     "imagenes/Pasted image 20240223175405.png",
     "Pasted image 20240223175312.png"
