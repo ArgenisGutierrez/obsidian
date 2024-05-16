@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a56c8c3cbbc372",
+        "id": "ef9d9c945676eb16",
         "type": "tabs",
         "children": [
           {
-            "id": "66eefb25ad740c9e",
+            "id": "ad93d871ed0b095f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Temario/Object.md",
+                "file": "Lua/Lua.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dc5f56dab46376e1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Temario/Object.md",
+                "file": "Lua/Lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Temario/Object.md",
+                "file": "Lua/Lua.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Temario/Object.md"
+                "file": "Lua/Lua.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,47 +168,47 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "66eefb25ad740c9e",
+  "active": "ad93d871ed0b095f",
   "lastOpenFiles": [
-    "Javascript/Temario/Data Types.md",
-    "Javascript/Temario/Object.md",
-    "Javascript/Temario/Primitive Types.md",
-    "Javascript/Temario/Boolean.md",
-    "Javascript/Temario/Symbol.md",
-    "Javascript/Temario/Null.md",
+    "Lua/Precedence.md",
+    "Lua/Lua.md",
+    "Lua/Conversions.md",
+    "Lua/Representation Limits.md",
+    "Lua/The Mathematical Library.md",
+    "Lua/Relational Operators.md",
+    "Lua/Arithmetic Operators.md",
+    "Markdown/Callouts Markdown.md",
+    "Lua/Numerals.md",
+    "Lua/Stand-Alone Interpreter.md",
+    "Lua/Types and Values.md",
+    "Lua/Global Variables.md",
+    "Lua/Chunks.md",
     "Javascript/Javascript.md",
-    "Libros/Biblioteca/Attachments/mastering-vim-quickly-from-wtf-to-omg-in-no-time.pdf",
-    "Libros/Biblioteca/Mastering VIM Quickly From Wtf to Omg in No Time.md",
-    "Javascript/Temario/Undefined.md",
-    "Javascript/Temario/All about variables.md",
-    "Javascript/Temario/Bigint.md",
-    "Javascript/Temario/Number.md",
-    "Javascript/Temario/Sting.md",
-    "Javascript/Temario/Typeof Operator.md",
-    "Javascript/Temario/Variable Scoopes.md",
-    "Javascript/Temario/Block.md",
-    "Javascript/Temario/Function.md",
-    "Javascript/Temario/Global.md",
-    "Javascript/Temario/Variable naming rules.md",
-    "Javascript/Temario/Hoisting.md",
-    "Javascript/Temario/Variable Declarations.md",
-    "Javascript/Temario/Const.md",
-    "Javascript/Temario/Let.md",
-    "Javascript/Temario/Var.md",
-    "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
-    "Libros/Biblioteca/Eloquent JavaScript 3rd Edition.md",
+    "Dashboard.md",
     "Libros/Mis Libros.md",
+    "Libros/Biblioteca/Programming in Lua.md",
+    "Libros/Biblioteca/Design Patterns.md",
+    "Libros/Biblioteca/Pro TypeScript.md",
+    "Libros/Biblioteca/Attachments/Programming in Lua 4th Edition.pdf",
+    "Libros/Biblioteca/Linux Bible.md",
+    "Libros/Biblioteca/Introduction to Algorithms third edition.md",
+    "Libros/Biblioteca/Mis.md",
+    "Libros/Biblioteca/Libros.md",
+    "Lua/Temario",
+    "Typescript/ProTypescript/Types.md",
+    "Lua",
+    "Typescript/ProTypescript/Type Assertions.md",
+    "Typescript/ProTypescript/Discriminated Unions.md",
+    "Libros/Biblioteca/Attachments/Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf",
+    "Libros/Biblioteca/Attachments/Codigo limpio - Robert Cecil Martin.pdf",
+    "Libros/Biblioteca/Attachments/mastering-vim-quickly-from-wtf-to-omg-in-no-time.pdf",
+    "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
     "Javascript/Temario",
     "Javascript/Attachments/Pasted image 20240226221347.png",
     "Javascript/Attachments",
     "Javascript/Mapa.canvas",
     "Javascript/Attachments/Pasted image 20240226210450.png",
     "Javascript",
-    "Libros/Biblioteca/Attachments/Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf",
-    "Typescript/ProTypescript",
-    "Typescript",
-    "Libros/Biblioteca/Attachments/markdown guide.pdf",
-    "Libros/Biblioteca/Attachments/Codigo limpio - Robert Cecil Martin.pdf",
     "Excalidraw/Attachments/Pasted Image 20240224132609_920.png",
     "imagenes/1341774.png",
     "imagenes/Pasted image 20240223175405.png",

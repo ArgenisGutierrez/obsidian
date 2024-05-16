@@ -1,0 +1,86 @@
+>[!summary] Resumen.
+>Lua es un lenguaje de scripting facil de aprender que de uso general, principalmente usada para programar videojuegos pero tambien para realizar configuraciones de distintas herramientas en nuestro caso para configurarion de nvim.
+
+---
+
+## Temario.
+- Getting Start
+	- [[Chunks]]
+	- [[Global Variables]]
+	- [[Types and Values]]
+	- [[Stand-Alone Interpreter]]
+- Numbers
+	- [[Numerals]]
+	- [[Arithmetic Operators]]
+	- [[Relational Operators]]
+	- [[The Mathematical Library]]
+	- [[Representation Limits]]
+	- [[Conversions]]
+	- [[Precedence]]
+- Strings
+	- [[Literal strings]]
+	- [[Long Strings]]
+	- [[Coercions]]
+	- [[The String Library]]
+	- [[Unicode]]
+- Tables
+	- [[Table Indices]]
+	- [[Table Constructors]]
+	- [[Arrays, Lists and Sequences]]
+	- [[Table Traversal]]
+	- [[Safe Navigation]]
+	- [[The Table Library]]
+- Functions
+	- [[Multiple Results]]
+	- [[Variadic Function]]
+	- [[The function table.unpack]]
+	- [[Proper Tail Calls]]
+- The External World
+	- [[The Simple I/O Model]]
+	- [[The Complete I/O Model]]
+	- [[Other Operations on Files]]
+	- [[Other System Calls]]
+- Filling some Gaps
+	- [[Local Variables and Blocks]]
+	- [[Control Structures]]
+- Closures
+	- [[Functions as First-Class Values]]
+	- [[Non-Global Functions]]
+	- [[Lexical Scoping]]
+- Pattern Matching
+	- [[The Pattern-Matching Functions]]
+	- [[Patterns]]
+	- [[Captures]]
+	- [[Repacements]]
+	- [[Tricks of the Trade]]
+- Date and Time
+	- [[The Function os.time]]
+	- [[The Function os.date]]
+	- [[Date-Time Manipulation]]
+- Bits and Bytes
+	- [[Bitwise Operators]]
+	- [[Unsigned Integers]]
+	- [[Packing and Unpacking Binary Data]]
+	- [[Binary Files]]
+- Data Structures
+	- [[Arrays]]
+	- [[Matrices and Multi-Dimensional Arrays]]
+	- [[Linked List]]
+	- [[Queues and Double-Ended Queues]]
+	- [[Reverse Tables]]
+	- [[Sets and Bags]]
+	- [[String Buffers]]
+	- [[Graphs]]
+- Data Files and Serialization
+	- [[Data Files]]
+	- [[Serialization]]
+- Compilations, Execution and Errors
+	- [[Compilation]]
+	- [[Precompiled Code]]
+	- [[Errors]]
+	- [[Error Handling and Exceptions]]
+	- [[Error Messages and Tracebaks]]
+- Modules and Packages
+	- [[The Function require]]
+	- [[The Basic Approach fot Writing Modules in Lua]]
+	- [[Submodules and Packages]]

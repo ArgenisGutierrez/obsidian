@@ -10,6 +10,14 @@ Los problemas que cubre typescript son principalmente los siguientes:
 
 ## Temario
 >El contenido manejado en este temario viene de el libro [[Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf]]
-- Capitulo 1: Typescript Lenguage Features.
-- Capitulo 2: Code Organization.
-- Capitulo 3: The Type System.
+
+- Capitulo 1: [[TypeScipt Language Features]].
+- Capitulo 2: [[Code Organization]].
+- Capitulo 3: [[The Type system]].
+- Capitulo 4: [[Object Orientation in TypeScript]]
+- Capitulo 5: [[Understanding the Runtime]].
+- Capitulo 6: [[Running Typescript in a Browser]].
+- Capitulo 7: [[Running Typescript in a Server]].
+- Capitulo 8: [[Exceptions, Memory and Performance]].
+- Capitulo 9: [[Using Javascript Libraries]].
+- Capitulo 10: [[Automated Testing]].
