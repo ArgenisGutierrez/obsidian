@@ -36,10 +36,11 @@
 	- [[The function table.unpack]]
 	- [[Proper Tail Calls]]
 - The External World
-	- [[The Simple I/O Model]]
-	- [[The Complete I/O Model]]
+	- [[The Simple IO Model]]
+	- [[The Complete IO Model]]
 	- [[Other Operations on Files]]
 	- [[Other System Calls]]
+	- [[Running system commands]]
 - Filling some Gaps
 	- [[Local Variables and Blocks]]
 	- [[Control Structures]]
