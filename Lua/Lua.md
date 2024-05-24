@@ -52,8 +52,7 @@
 	- [[The Pattern-Matching Functions]]
 	- [[Patterns]]
 	- [[Captures]]
-	- [[Repacements]]
-	- [[Tricks of the Trade]]
+	- [[Replacements]]
 - Date and Time
 	- [[The Function os.time]]
 	- [[The Function os.date]]
@@ -64,7 +63,7 @@
 	- [[Packing and Unpacking Binary Data]]
 	- [[Binary Files]]
 - Data Structures
-	- [[Arrays]]
+	- [[Arrays Lua]]
 	- [[Matrices and Multi-Dimensional Arrays]]
 	- [[Linked List]]
 	- [[Queues and Double-Ended Queues]]
