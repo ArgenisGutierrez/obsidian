@@ -61,7 +61,7 @@
 	- [[Assignament Operators]]
 	- [[Comparison Operators]]
 	- [[Arithmetic Operators]]
-	- [[Bitwise Operators]]
+	- [[Bitwise Operator]]
 	- [[Logical Operators]]
 	- [[BigInt Operators]]
 	- [[String Operators]]

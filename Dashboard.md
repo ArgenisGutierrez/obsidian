@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] [[Markdown]]
 - [ ] [[Javascript]]
 - [ ] [[Typescript]]
+- [ ] [[Lua]]
 
 
 

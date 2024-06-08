@@ -1,5 +1,5 @@
 >[!summary] Resumen.
->En resumen para trabajar con unsigned integers en Lua que son números mayores a los que soporta que es 2^63-1 se tiene que hacer uso de los [[Bitwise Operators]], mientras que para imprimirlos se hace uso del metodo _string.format_.
+>En resumen para trabajar con unsigned integers en Lua que son números mayores a los que soporta que es 2^63-1 se tiene que hacer uso de los [[Bitwise Operators in Lua]], mientras que para imprimirlos se hace uso del metodo _string.format_.
 
 >[!example] Ejemplo.
 ```Lua

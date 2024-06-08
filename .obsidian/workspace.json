@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef9d9c945676eb16",
+        "id": "032f163421263e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad93d871ed0b095f",
+            "id": "971e9d1fc856facf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lua/Lua.md",
+                "file": "Javascript/Weak Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/Lua.md",
+                "file": "Javascript/Weak Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/Lua.md",
+                "file": "Javascript/Weak Set.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/Lua.md"
+                "file": "Javascript/Weak Set.md"
               }
             }
           },
@@ -168,34 +168,35 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ad93d871ed0b095f",
+  "active": "971e9d1fc856facf",
   "lastOpenFiles": [
-    "Lua/Submodules and Packages.md",
-    "Lua/Lua.md",
-    "Lua/The Basic Approach fot Writing Modules in Lua.md",
-    "Lua/The Function require.md",
-    "Lua/Errors.md",
-    "Lua/Precompiled Code.md",
-    "Lua/Compilation.md",
-    "Lua/Serialization.md",
-    "Lua/Data Files.md",
-    "Lua/Graphs.md",
-    "Lua/String Buffers.md",
-    "Lua/Reverse Tables.md",
-    "Lua/Sets and Bags.md",
-    "Lua/Queues and Double-Ended Queues.md",
-    "Lua/Linked List.md",
-    "Lua/Matrices and Multi-Dimensional Arrays.md",
-    "Lua/Arrays Lua.md",
-    "Typescript/ProTypescript/Arrays.md",
-    "Lua/Temario/Binary Files.md",
-    "Lua/Temario/Packing and Unpacking Binary Data.md",
-    "Lua/Temario/Unsigned Integers.md",
-    "Lua/Temario/Bitwise Operators.md",
+    "Javascript/Keyed Collections.md",
+    "Javascript/Weak Set.md",
+    "Javascript/Weak Map.md",
+    "Javascript/Map.md",
+    "Javascript/Set.md",
+    "Javascript/Data Structures.md",
     "Javascript/Javascript.md",
-    "Lua/Temario/Date-Time Manipulation.md",
-    "Lua/Temario/The Function os.date.md",
-    "Lua/Temario/The Function os.time.md",
+    "Javascript/Type Conversion vs Coersion.md",
+    "Javascript/Temario/Type Casting.md",
+    "Javascript/Temario/Implicit Type Casting.md",
+    "Javascript/Temario/Explicit Type Casting.md",
+    "Javascript/Javasctipt.md",
+    "Javascript/Javasctip.md",
+    "Javascript/Type.md",
+    "Javascript/Temario/Object.md",
+    "Javascript/Temario/All about variables.md",
+    "Javascript/Temario/Data Types.md",
+    "Javascript/Temario/Sting.md",
+    "Javascript/Temario/Build In Objects.md",
+    "Javascript/Temario/Prototypal Inheritance.md",
+    "Javascript/Javacript.md",
+    "Javascript/Temario/Object Prototype.md",
+    "Typescript/Typescript.md",
+    "Typescript/ProTypescript/TypeScipt Language Features.md",
+    "Typescript/ProTypescript/Types.md",
+    "Javascript/Temario/Primitive Types.md",
+    "React",
     "The Simple I",
     "Libros/Biblioteca/Attachments/Programming in Lua 4th Edition.pdf",
     "Lua/Temario",
@@ -206,7 +207,6 @@
     "Libros/Biblioteca/Attachments/Eloquent_JavaScript.pdf",
     "Javascript/Temario",
     "Javascript/Attachments/Pasted image 20240226221347.png",
-    "Javascript/Attachments",
     "Javascript/Mapa.canvas",
     "Javascript/Attachments/Pasted image 20240226210450.png",
     "Excalidraw/Attachments/Pasted Image 20240224132609_920.png",

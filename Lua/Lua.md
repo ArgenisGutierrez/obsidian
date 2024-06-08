@@ -11,8 +11,8 @@
 	- [[Stand-Alone Interpreter]]
 - Numbers
 	- [[Numerals]]
-	- [[Arithmetic Operators]]
-	- [[Relational Operators]]
+	- [[Arithmetic Operators in Lua]]
+	- [[Relational Operators in Lua]]
 	- [[The Mathematical Library]]
 	- [[Representation Limits]]
 	- [[Conversions]]
@@ -47,7 +47,7 @@
 - Closures
 	- [[Functions as First-Class Values]]
 	- [[Non-Global Functions]]
-	- [[Lexical Scoping]]
+	- [[Lexical Scoping in Lua]]
 - Pattern Matching
 	- [[The Pattern-Matching Functions]]
 	- [[Patterns]]
@@ -58,7 +58,7 @@
 	- [[The Function os.date]]
 	- [[Date-Time Manipulation]]
 - Bits and Bytes
-	- [[Bitwise Operators]]
+	- [[Bitwise Operators in Lua]]
 	- [[Unsigned Integers]]
 	- [[Packing and Unpacking Binary Data]]
 	- [[Binary Files]]
