@@ -1,7 +1,7 @@
 >[!summary] Resumen.
 >Las tablas son las únicas estructuras de datos en Lua remplazando todas las demas estructuras de los demas lenguajes como los son los [[Array]], [[Object]], [[Set]], ect.
 >La estructura de las tablas es parecida a la de los [[Object]] en [[Javascript]] o a los array asociativos.
->El indice de las tablas pueden ser tanto números como llaves.
+>El indice de las tablas pueden ser tanto números[](Set.md)laves.
 
 >[!example] Ejemplo.
 >```Lua

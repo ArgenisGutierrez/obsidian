@@ -1,0 +1,101 @@
+# Linux
+
+-  Navigation Basics.
+	- Basic Commands.
+	- Moving Files/ Directories.
+	- Creating & Delete Files / Directories.
+	- Directory Hierarchy Overview.
+- Editing Files.
+	- Vim.
+	- Nano.
+- Shell and Other Basics.
+	- Command Path.
+	- Environment Variables.
+	- Command Help.
+	- Redirects.
+	- Super User.
+- Working with Files.
+- Text Processing.
+	- stdout / stdin / stderr.
+	- Cut.
+	- Paste.
+	- Sort.
+	- Tr.
+	- Head.
+	- Tail.
+	- Join.
+	- Split.
+	- Pipe.
+	- Tee.
+	- Nl.
+	- Wc.
+	- Expand.
+	- Unexpand.
+	- Uniq.
+	- Grep
+	- Awk.
+- Server Review.
+	- Uptime and Load.
+	- Authentication Logs.
+	- Services Running.
+	- Available Memmory / Dis.
+- Process Management.
+	- Background / Foreground Prosses.
+	- Listing / Finding Processes.
+	- Process Signals.
+	- Killing Processes.
+	- Process Priorities.
+	- Process forking.
+- User Management.
+	- Create / Delete / Update.
+	- Users and Groups.
+	- Managing Permissions.
+- Service Management (systemd).
+	- Checking Service Status.
+	- Start / Stop Services.
+	- Checking Service Logs.
+	- Creating New Services.
+- Package Management.
+	- Package Repositories.
+	- Snap.
+	- Finding and Installing Packages.
+	- Listing Installed Packacges.
+	- Instal / Remove / Upgrade Packages.
+- Disk and Filesystems.
+	- Inodes.
+	- Filesystems.
+	- Mounts.
+	- Adding Disks.
+	- Swap.
+	- LVM.
+- Booting Linux.
+	- Logs
+	- Boot Loaders.
+- Networking.
+	- TCP / IP Stack.
+	- Subnetting.
+	- Ethernet & arp/rarp.
+	- DHCP.
+	- IP Routing.
+	- DNS Resolution.
+	- Netfilter.
+	- SSH.
+	- File Transfer.
+- Backup Tools.
+- Shell Programming.
+	- Debbuging.
+	- Conditionals.
+	- Loops.
+	- Literals.
+	- Variables.
+- Troubleshooting.
+	- ICMP.
+	- Ping.
+	- Traceroute.
+	- Netstat.
+	- Packet Analysis.
+- Containerization.
+	- Ulimits.
+	- Cgroups.
+	- Container Runtime.
+	- Docker.

@@ -12,7 +12,7 @@
 >
 >En javascript las podemos clasificar de 3 formas:
 >- [[Keyed Collections]]
->- [[Structured Data]]
 >- [[Indexed Collections]]
+>- [[Structured Data]]
 
 [Regresar](Javascript)

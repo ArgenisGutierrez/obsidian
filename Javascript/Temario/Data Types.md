@@ -5,4 +5,4 @@
 >
 >Algo a tener en cuenta es que existe un operador que nos permite saber el data type de una variable el cual es el [[Typeof Operator]].
 
-[[All about variables]]
+[Regresar](Javascript)

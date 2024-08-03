@@ -11,4 +11,3 @@
 >
 
 [[Data Types]]
-[[Types]]

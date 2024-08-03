@@ -6,4 +6,4 @@
 >let poblacionMundial = 6000000000;
 >```
 
-[[Data Types]]
+[[Primitive Types]]
