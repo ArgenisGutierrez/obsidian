@@ -1,13 +1,8 @@
 [
-  "calendar",
   "obsidian-style-settings",
-  "obsidian-kanban",
-  "obsidian-checklist-plugin",
   "obsidian-relative-line-numbers",
   "dataview",
   "obsidian-book-search-plugin",
-  "obsidian-excalidraw-plugin",
-  "buttons",
-  "obsidian-statusbar-pomo",
-  "obsidian-mind-map"
+  "obsidian-kanban",
+  "share-note"
 ]

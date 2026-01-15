@@ -1,0 +1,10 @@
+>[!resume]
+>Aqui nos habla del llamado _software entropy_ que es cuando un proyecto se llena poco a poco de desastres.
+>Uno de los factores principales que llevan a ello y del que no le damos mucha importancia es la parte psicologia de los miembros del equipo, pues aqui aborda la *teoria de la ventana rota*.
+>La cual dice que una de las primeras causas de que un edificio en buenas condiciones se arruine empieza con una simple ventana rota sin arreglar, esta incita a los vecinos un sentido de abandono, el cual los puede llevar a no importarles el cuidado del mismo, esto llevara a otra ventana rota, luego otra, otra mas y de pronto aparecera un grafiti que que se multiplicara con el tiempo y después de un tiempo empezaran los daños estructurales que harán realidad el sentido de abandono.
+>Con esta analogía nos incita a que como programadores no caigamos en el mismo error de dejar *alguna ventana rota* en nuestro trabajo traducida a un pobre trabajo o una mala decision que de pronto lleve a otra y antes de darnos cuenta nuestro proyecto lucirá como un *edificio abandonado*.
+>
+>En este mismo capitulo nos cuenta otra historia en la que un incendio ocurre en el apartamento de un coleccionista, en el cual al acudir los bomberos dudaron de entrar debido a que no querían arruinar una hermosa alfombra que estaba en la entrada.
+>Con esta analogía a diferencia de la anterior nos quiere dar a entender que mientras un proyecto lleno de *ventanas rotas* nos puede llevar a creer que todo es una basura, en un proyecto en el que todo esta echo de una forma *limpia y hermosa* nos puede llevar a tener un sentido por mantener nuestro trabajo acorde al de los demás para evitar *ensuciarlo* así como los bomberos no querían arruinar la alfombra aun teniendo el fuego enfrente, en este caso el fuego puede representar las fechas limites para a entrega de nuestro trabajo y aun con esa presión no querer entregar algo *sucio*
+
+[[The Pracmatic Programmer]]

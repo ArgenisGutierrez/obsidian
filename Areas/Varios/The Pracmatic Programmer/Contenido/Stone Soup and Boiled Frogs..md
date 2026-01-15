@@ -1,0 +1,12 @@
+>[!resume] Sopa de Piedras
+>En esta unos soldados que regresan de la guerra hambrientos llegan a un pueblo donde todos los pobladores acapararon la comida y se niegan a compartirla con los demás por el temor a la hambruna, los soldados entonces sacan un hoya, la llenan de agua y colocan unas piedras adentro como haciendo una sopa, curioso un pueblerino se acerca a preguntarles como esta el sabor de la sopa, a lo que estos responden que sabría mejor con algunas zanahorias, al oír esto el pueblerino corre a su casa para darle algo de sus zanahorias, pronto otro se acerca y ocurre lo mismo, entonces otro mas y otro mas; antes de darse cuenta todos han aportado algo a la sopa lo que la ah echo abundante al final todos comen de una rica y sustenta sopa con lo que cada uno aporto.
+>
+>En esta historia se nos da 2 moralejas una por parte de los soldados y otra por parte de los habitantes del pueblo:
+>Por parte de los soldados nos muestra que ellos actuando como un catalizador a travez de la curiosidad de los habitantes los motivo a lograr algo increíble en conjunto que no hubiesen logrado de permanecer individualmente y nos insta a ser como los soldados, un catalizador que motive a nuestros compañeros a trabajar juntos para lograr algo mas grande con sus aportes, cuando vemos que un proyecto parece estarse estancando o yendo en picada es un buen momento de *poner algunas piedras en la hoya*.
+>En cuando al lado de los habitantes del pueblo nos enseña a que muchas veces no centramos tanto en lo que solo nos involucra que no vemos el cuadro completo y ello nos limita para ver todos los posibles problemas o mejores opciones para el mismo.
+
+>[!resume] Cociendo Sapos
+>La bien conocida historia en la que para cocinar sapos no podemos poner de golpe en el agua hirviendo pues estos saltarían al entrar en contacto con el agua por el dolor causado por el calor, pero si en su lugar los pones a calentar de poco en poco no notaran el aumento de la temperatura hasta que ya sea demasiado tarde.
+>Con esta historia nos quiere advertir sobre que muchas veces podemos ser como los sapos y no ver como se acumulan poco a poco los problemas en nuestros proyectos hasta que se convierten en algo tan grande que nos supera. Con ello nos invita a ser proactivos al proactivos hasta para tratar con los pequeños problemas antes de que nos demos cuenta que estamos en una *hoya hirviendo*.
+
+[[The Pracmatic Programmer]]

@@ -1,5 +1,5 @@
 {
-  "folder": "Libros/Biblioteca",
+  "folder": "Recursos/Libros",
   "fileNameFormat": "{{title}}",
   "frontmatter": "",
   "content": "",
@@ -10,5 +10,11 @@
   "naverClientId": "",
   "naverClientSecret": "",
   "localePreference": "default",
-  "openPageOnCompletion": true
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "",
+  "askForLocale": true
 }

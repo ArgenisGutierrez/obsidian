@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b79f6d606a6dd327",
+        "id": "d5031b60f98ba8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f77007b6067ec9b9",
+            "id": "66d3e62c0a0fc997",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Buscador-Natural-PHP/Auth Module/General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/Mis Libros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mis Libros"
             }
           },
           {
@@ -97,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/Mis Libros.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mis Libros"
             }
           },
           {
@@ -110,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,27 +139,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1e3b766453ad36c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e5765b3eb07cef4",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
+              "state": {
+                "file": "Proyectos/Sistema de articulos/Fases de Desarrollo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Fases de Desarrollo"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,62 +159,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Iniciar/Detener la grabación": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f77007b6067ec9b9",
+  "active": "66d3e62c0a0fc997",
   "lastOpenFiles": [
-    "Javascript/Javascript.md",
-    "Typescript/ProTypescript/Types.md",
-    "Typescript/ProTypescript/TypeScipt Language Features.md",
-    "Typescript/Typescript.md",
-    "Markdown/Code.md",
-    "Markdown/Availability.md",
-    "Markdown/Blockquotes.md",
-    "Markdown/Callouts Markdown.md",
-    "Markdown/Automatic URL Linking.md",
-    "Lua/Lua.md",
-    "Linux/Linux.md",
-    "Linux/Temario",
-    "Sin nombre",
-    "Linux",
-    "Libros/Mis Libros.md",
-    "Dashboard.md",
-    "Javascript/Sin título.md",
-    "Javascript/Temario/Equality Algorithms.md",
-    "Javascript/Temario/SameValueZero.md",
-    "Javascript/Temario/SameValue.md",
-    "Javascript/Temario/isStrictlyEqual.md",
-    "Javascript/Temario/isLooselyEqual.md",
-    "Javascript/Temario/Equality Comparisons.md",
-    "Javascript/Temario/Value Comparison Operators.md",
-    "Javascript/Temario/Object.is.md",
-    "Javascript/Temario/==.md",
-    "Javascript/Temario/===.md",
-    "Javascript/Temario/Data Structures.md",
-    "Javascript/Temario/JSON.md",
-    "React",
-    "React",
-    "The Simple I",
-    "Libros/Biblioteca/Attachments/Programming in Lua 4th Edition.pdf",
-    "Lua/Temario",
-    "Lua",
-    "Libros/Biblioteca/Attachments/Pro TypeScript Application-Scale JavaScript Development by Steve Fenton.pdf",
+    "Proyectos/Buscador-Natural-PHP/Diseño General.md",
+    "Proyectos/Buscador-Natural-PHP/Auth Module/General.md",
+    "Proyectos/Buscador-Natural-PHP/Auth Module",
+    "Proyectos/Buscador-Natural-PHP/AuthSystem/Permission Manager.md",
+    "Proyectos/Buscador-Natural-PHP/AuthSystem/Middleware Manager.md",
+    "Proyectos/Buscador-Natural-PHP/AuthSystem/Auth Manager.md",
+    "Proyectos/Buscador-Natural-PHP/AuthSystem/Audit Manager.md",
+    "Proyectos/Buscador-Natural-PHP/Auth system.md",
+    "Proyectos/Buscador-Natural-PHP/Roles y Permisos",
+    "Proyectos/Buscador-Natural-PHP/Find Module",
+    "Proyectos/Buscador-Natural-PHP/Conection Module",
+    "Proyectos/Buscador-Natural-PHP/Search System.md",
+    "Proyectos/Sistema de articulos/Fases de Desarrollo.md",
+    "Proyectos/Sistema de articulos/Modulos del sistema.md",
+    "Notas Rapidas/Propuestas de opciones para el buscador.md",
+    "Notas Rapidas/Inteligencia Artificial.md",
+    "Notas Rapidas/Pruebas de Prompt.md",
+    "Notas Rapidas/ejemplo.md",
+    "Notas Rapidas/Notas Rapidas.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 1 Fundacion del sistema.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 11 Portal del Usuario.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 10 Dashboard.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 9 Modulo de Configuracion.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 8 Modulo Contenidos.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 7 Herramientas de Soporte.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 6 Modulo Fracciones.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 5 Modulo Articulos.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 4 Modulo Usuarios.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 2 Modulo Autenticacion.md",
+    "Proyectos/Sistema de articulos/Planeacion/Fase 3 Unidades Administrativas.md",
+    "Proyectos/Sistema de articulos/Planeacion",
+    "Notas Rapidas/Inteligencia Artificial.html",
+    "Tags",
+    "Sin título.canvas",
+    "Tasks/Sin título.canvas",
+    "Tasks",
+    "Proyectos/Sistema de articulos",
+    "Proyectos/Buscador-Natural-PHP/AuthSystem",
+    "Attachments/Pasted image 20250626145109.png",
+    "Attachments/Pasted image 20250627151525.png",
+    "Attachments/Pasted image 20250627143925.png",
+    "Attachments/Pasted image 20250626181800.png",
+    "Attachments/Diagram.svg",
+    "Untitled Diagram.svg",
     "Javascript/Attachments/Pasted image 20240226221347.png",
     "Javascript/Mapa.canvas",
     "Javascript/Attachments/Pasted image 20240226210450.png",
     "Excalidraw/Attachments/Pasted Image 20240224132609_920.png",
-    "imagenes/1341774.png",
-    "imagenes/Pasted image 20240223175405.png",
-    "Pasted image 20240223175312.png"
+    "imagenes/1341774.png"
   ]
 }
